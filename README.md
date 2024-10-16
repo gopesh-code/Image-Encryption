@@ -37,7 +37,7 @@ This is a portfolio website template designed for photographers, videographers, 
    ```bash
    cd creator-portfolio
    ```
-3. Open Profile.html in your browser to view the site.
+3. Open index.html in your browser to view the site.
 
 ## Customization
 - Replace placeholder text and images in the Profile.html file to fit your personal content.
